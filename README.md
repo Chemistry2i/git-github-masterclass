@@ -1,6 +1,10 @@
 # 🎓 The Ultimate Git & GitHub Masterclass (Fundamentals to Pro)
 
-Welcome to the official curriculum repository for the Git & GitHub Masterclass, designed specifically for the **Kyambogo University Computing Students Association (KYUCSA)** community. 
+<p align="center">
+  <img src="preview.png" alt="Git Masterclass Banner" width="100%" max-width="800px" style="border-radius: 8px;">
+</p>
+
+Welcome to the official curriculum repository for the Git & GitHub Masterclass, designed specifically for the **Kyambogo University Computing Students Association (KYUCSA)** community...
 
 This repository contains full slide decks, visual diagrams, and workflow guides to help students transition from absolute Git beginners into production-ready open-source contributors.
 
