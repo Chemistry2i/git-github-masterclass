@@ -1,7 +1,3 @@
-
-
-
-
 # 🎓 The Ultimate Git & GitHub Masterclass (Fundamentals to Pro)
 
 <p align="center">
