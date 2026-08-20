@@ -8,6 +8,8 @@ Welcome to the official curriculum repository for the Git & GitHub Masterclass, 
 
 This repository contains full slide decks, visual diagrams, and workflow guides to help students transition from absolute Git beginners into production-ready open-source contributors.
 
+
+
 ## 👤 Presenter Details
 - **Speaker:** Wambogo Hassan Sadat
 - **GitHub:** [@Chemistry2i](https://github.com/Chemistry2i)
